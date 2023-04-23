@@ -1,0 +1,33 @@
+from chapter9 import calc
+
+print(calc.add(1, 2))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

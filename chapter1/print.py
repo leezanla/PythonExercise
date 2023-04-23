@@ -1,0 +1,1 @@
+print("hellooo0\tworld")
